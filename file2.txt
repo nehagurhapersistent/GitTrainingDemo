@@ -17,12 +17,9 @@ change 7: -> To test stashing half done work
 
 Change 8: - change to check WI 5 .
 
-<<<<<<< HEAD
 Change 9: -> to test git pull.
 
-change 10: -> added change on remote server
-=======
-Change 9: -> to test git pull
-
 change 10: -> added on local master for WI 10 - cart feature
->>>>>>> 579163e (updated for change 10)
+
+change 11: -> added change on remote server
+
