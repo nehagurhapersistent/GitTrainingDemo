@@ -1,7 +1,10 @@
-Welcome to GIT Demo...
-Change 1- You are welcome to git demo
+Welcome to GIT Demo!!
 
-change 2- this is version control system
+Change 1:- You are welcome to git demo
 
-change 3- this is by team mate for WI3
+change 2:- this is version control system
+
+change 3:- this is by team mate for WI3
+
+change 4: - to fix bug2 related to xyz
 
