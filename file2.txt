@@ -15,6 +15,8 @@ change 6: - to work on WI 4 related to XYZ enhancement
 
 change 7: - to test stashing half done work
 
-Change 8: - change to check WI 5 
+Change 8: - change to check WI 5 .
 
-Change 9: -> to test git pull
+Change 9: -> to test git pull.
+
+change 10: -> added change on remote server
