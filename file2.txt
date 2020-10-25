@@ -5,18 +5,24 @@ Change 1:-> You are welcome to git demo
 
 change 2:-> this is version control system
 
-change 3:-> this is by team mate for WI3
+change 3:-> This is by team mate for WI3
 
-change 4: -> to fix bug2 related to xyz
+change 4: -> To fix bug2 related to xyz
 
-change 5: -> to fix CR1 related to xyz
+change 5: -> To fix CR1 related to xyz
 
-change 6: - to work on WI 4 related to XYZ enhancement
+change 6: -> To work on WI 4 related to XYZ enhancement
 
-change 7: - to test stashing half done work
+change 7: -> To test stashing half done work
 
 Change 8: - change to check WI 5 .
 
+<<<<<<< HEAD
 Change 9: -> to test git pull.
 
 change 10: -> added change on remote server
+=======
+Change 9: -> to test git pull
+
+change 10: -> added on local master for WI 10 - cart feature
+>>>>>>> 579163e (updated for change 10)
